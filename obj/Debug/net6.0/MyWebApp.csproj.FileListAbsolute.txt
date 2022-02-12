@@ -1,0 +1,52 @@
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.staticwebassets.runtime.json
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.exe
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.deps.json
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.runtimeconfig.json
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.dll
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\ref\MyWebApp.dll
+C:\Users\holy hand grenade\MyWebApp\bin\Debug\net6.0\MyWebApp.pdb
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfo.cs
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.dll
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\ref\MyWebApp.dll
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.pdb
+C:\Users\holy hand grenade\MyWebApp\obj\Debug\net6.0\MyWebApp.genruntimeconfig.cache
+F:\MyWebApp\bin\Debug\net6.0\appsettings.Development.json
+F:\MyWebApp\bin\Debug\net6.0\appsettings.json
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.staticwebassets.runtime.json
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.exe
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.deps.json
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.runtimeconfig.json
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.dll
+F:\MyWebApp\bin\Debug\net6.0\ref\MyWebApp.dll
+F:\MyWebApp\bin\Debug\net6.0\MyWebApp.pdb
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.AssemblyReference.cache
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfoInputs.cache
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfo.cs
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.CoreCompileInputs.cache
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cache
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cs
+F:\MyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+F:\MyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+F:\MyWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\MyWebApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApp.styles.css
+F:\MyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.dll
+F:\MyWebApp\obj\Debug\net6.0\ref\MyWebApp.dll
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.pdb
+F:\MyWebApp\obj\Debug\net6.0\MyWebApp.genruntimeconfig.cache
